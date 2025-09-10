@@ -1,0 +1,8 @@
+langgraph
+langchain
+langchain-openai
+langchain_community
+tavily-python
+python-dotenv
+gradio
+faiss-cpu
